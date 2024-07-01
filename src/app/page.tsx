@@ -17,7 +17,7 @@ export default function Home() {
         <div className="flex flex-col gap-1.5">
           <h1 className="flex items-center gap-3 text-5xl font-bold">
             <hr className="w-10 h-1.5 bg-[#FFB400] rounded-md" />
-            <span className="text-[#FFB400]">I'M GHULAM GHAUS.</span>
+            <span className="text-[#FFB400]">I AM GHULAM GHAUS.</span>
           </h1>
           <h1 className="ml-[3rem] text-4xl font-bold">
             <span className="text-gray-500">Generative AI Engineer</span>
@@ -28,8 +28,8 @@ export default function Home() {
           infrastructure, improving business processes, and developing secure
           applications using Node.js frameworks like Express, Nest.js, and
           Next.js. My expertise includes designing RESTful APIs, integrating
-          payment gateways, and implementing email workflows and web sockets.
-          I've contributed to projects like the Maturity Assessment tool and
+          payment gateways, and implementing email workflows and web sockets. I
+          have contributed to projects like the Maturity Assessment tool and
           virtual Health System.
         </p>
         <button className="relative flex items-center justify-between w-[230px] h-[55px]  rounded-full border border-[#FFB400] ">
