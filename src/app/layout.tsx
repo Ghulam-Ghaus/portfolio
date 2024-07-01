@@ -21,8 +21,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={poppins.className}>
-        {children}
-        <Navbar />
+        <main className="flex">
+          {children}
+          <Navbar />
+        </main>
       </body>
     </html>
   );
